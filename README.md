@@ -1,6 +1,6 @@
 # Bezel
 
-Bezel is a real time meeting application that allows users to create and join meetings.
+Bezel is a real time meeting application that allows users to create and join meetings. 
 
 ## Features
 
@@ -43,4 +43,6 @@ Start the development server
 ```bash
 npm run dev
 ```
+
+Developed by Chetan Patil & Sakshi Kulkarni
 

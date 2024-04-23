@@ -39,7 +39,7 @@ const Main = (props) => {
     <MainContainer>
       <Row>
         <Label htmlFor="userName">User Name</Label>
-        <Input type="text" id="userName" ref={userRef} placeholder="chetan"/>
+        <Input type="text" id="userName" ref={userRef} placeholder="user's name. ex.chetan"/>
       </Row>
       <Row>
         <Label htmlFor="roomName">Room Name</Label>
